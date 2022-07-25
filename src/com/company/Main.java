@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        int mk1 = 67;
+        int mk1 = 100;
         int mk2 = 88;
         int mk3 = 99;
         int total = mk1 + mk2 + mk3;
